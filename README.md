@@ -1,10 +1,10 @@
 # Network lab
 
-* A-1 Simple Client ServerAssignment TCP
-* A-2 Chat, Date Time server, Command ExecutionAssignment
-* A-3 Multi user Chat and File TransferAssignment
+* A-1 Simple Client Server TCP
+* A-2 Chat, Date Time server, Command Execution
+* A-3 Multi user Chat and File Transfer
 * A-4 ARP
-* A-5 DNSAssignment
-* A-6 Hamming CodeAssignment
-* A-7 NS2-Wired SimulationAssignment
-* A-8 Throughput, Drop Packets, Congestion WindowAssignment
+* A-5 DNS
+* A-6 Hamming Code
+* A-7 NS2-Wired Simulation
+* A-8 Throughput, Drop Packets, Congestion Window
